@@ -54,6 +54,7 @@ public class Diameter {
        Diameter tree = new Diameter();
        Node root = tree.binarytree(nodes);
        System.out.println("Root node = " + root.data);
+       hiii
     }
 }
 
